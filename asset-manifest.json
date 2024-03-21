@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dc92160.css",
-    "main.js": "/static/js/main.45da6d3d.js",
+    "main.css": "/static/css/main.6fe3640f.css",
+    "main.js": "/static/js/main.8a0319d8.js",
     "static/media/video.mov": "/static/media/video.864cb783b65cf612f8fe.mov",
     "static/media/benefit-bg.png": "/static/media/benefit-bg.00278e091cb92106a4a7.png",
+    "static/media/standard_fig.jpg": "/static/media/standard_fig.6fbef7fef2763fd28ebd.jpg",
+    "static/media/plus_fig.jpg": "/static/media/plus_fig.1830305522a35cb1093c.jpg",
     "static/media/image-artboard-phone.png": "/static/media/image-artboard-phone.d088e4257ad001ff46fc.png",
     "static/media/wallet-unikbase-laura.png": "/static/media/wallet-unikbase-laura.ddc459489dcd8f940f5e.png",
-    "static/media/the-packengers-logo.svg": "/static/media/the-packengers-logo.9135b4a904e8e1071420.svg",
-    "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.74eea1c5920ccb17399f.svg",
+    "static/media/the-packengers-logo.svg": "/static/media/the-packengers-logo.e49b308ab6eb7e1357c0.svg",
+    "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.392f3d1b0cf107c39d69.svg",
     "index.html": "/index.html",
-    "main.8dc92160.css.map": "/static/css/main.8dc92160.css.map",
-    "main.45da6d3d.js.map": "/static/js/main.45da6d3d.js.map"
+    "main.6fe3640f.css.map": "/static/css/main.6fe3640f.css.map",
+    "main.8a0319d8.js.map": "/static/js/main.8a0319d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dc92160.css",
-    "static/js/main.45da6d3d.js"
+    "static/css/main.6fe3640f.css",
+    "static/js/main.8a0319d8.js"
   ]
 }
