@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.88efc9be.css",
-    "main.js": "/static/js/main.fad43973.js",
+    "main.css": "/static/css/main.5dbf6d4d.css",
+    "main.js": "/static/js/main.0db4d1c5.js",
     "static/media/video.mov": "/static/media/video.864cb783b65cf612f8fe.mov",
     "static/media/benefit-bg.png": "/static/media/benefit-bg.00278e091cb92106a4a7.png",
     "static/media/standard_fig.jpg": "/static/media/standard_fig.6fbef7fef2763fd28ebd.jpg",
     "static/media/plus_fig.jpg": "/static/media/plus_fig.1830305522a35cb1093c.jpg",
     "static/media/image-artboard-phone.png": "/static/media/image-artboard-phone.d088e4257ad001ff46fc.png",
     "static/media/wallet-unikbase-laura.png": "/static/media/wallet-unikbase-laura.ddc459489dcd8f940f5e.png",
+    "static/media/Apercu Italic.otf": "/static/media/Apercu Italic.b47cb3b6597e04b3b401.otf",
+    "static/media/Apercu Bold Italic.otf": "/static/media/Apercu Bold Italic.9a100ce5ff73b69f88c4.otf",
+    "static/media/Apercu Medium.otf": "/static/media/Apercu Medium.aedaec26a758f9fbd8d4.otf",
+    "static/media/Apercu Medium Italic.otf": "/static/media/Apercu Medium Italic.a9059a6171df6996e950.otf",
+    "static/media/Apercu Regular.otf": "/static/media/Apercu Regular.83b693d3141cb9dd1538.otf",
+    "static/media/Apercu Bold.otf": "/static/media/Apercu Bold.49e3b9c981f064376dcf.otf",
     "static/media/the-packengers-logo.svg": "/static/media/the-packengers-logo.e49b308ab6eb7e1357c0.svg",
     "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.392f3d1b0cf107c39d69.svg",
     "static/media/bar_loader.svg": "/static/media/bar_loader.5d04098c2f15fd030855.svg",
     "index.html": "/index.html",
-    "main.88efc9be.css.map": "/static/css/main.88efc9be.css.map",
-    "main.fad43973.js.map": "/static/js/main.fad43973.js.map"
+    "main.5dbf6d4d.css.map": "/static/css/main.5dbf6d4d.css.map",
+    "main.0db4d1c5.js.map": "/static/js/main.0db4d1c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.88efc9be.css",
-    "static/js/main.fad43973.js"
+    "static/css/main.5dbf6d4d.css",
+    "static/js/main.0db4d1c5.js"
   ]
 }
