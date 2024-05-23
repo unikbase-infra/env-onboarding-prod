@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba9ed8d1.css",
-    "main.js": "/static/js/main.a11d766b.js",
+    "main.css": "/static/css/main.a76093e0.css",
+    "main.js": "/static/js/main.996eec4b.js",
     "static/media/video.mov": "/static/media/video.864cb783b65cf612f8fe.mov",
-    "static/media/benefit-bg.png": "/static/media/benefit-bg.00278e091cb92106a4a7.png",
     "static/media/standard_fig.jpg": "/static/media/standard_fig.6fbef7fef2763fd28ebd.jpg",
     "static/media/plus_fig.jpg": "/static/media/plus_fig.1830305522a35cb1093c.jpg",
     "static/media/image-artboard-phone.png": "/static/media/image-artboard-phone.d088e4257ad001ff46fc.png",
+    "static/media/benefit-bg.png": "/static/media/benefit-bg.38891ec8ade442f2447e.png",
     "static/media/wallet-unikbase-laura.png": "/static/media/wallet-unikbase-laura.ddc459489dcd8f940f5e.png",
     "static/media/Apercu Italic.otf": "/static/media/Apercu Italic.b47cb3b6597e04b3b401.otf",
     "static/media/Apercu Bold Italic.otf": "/static/media/Apercu Bold Italic.9a100ce5ff73b69f88c4.otf",
@@ -18,11 +18,11 @@
     "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.392f3d1b0cf107c39d69.svg",
     "static/media/bar_loader.svg": "/static/media/bar_loader.5d04098c2f15fd030855.svg",
     "index.html": "/index.html",
-    "main.ba9ed8d1.css.map": "/static/css/main.ba9ed8d1.css.map",
-    "main.a11d766b.js.map": "/static/js/main.a11d766b.js.map"
+    "main.a76093e0.css.map": "/static/css/main.a76093e0.css.map",
+    "main.996eec4b.js.map": "/static/js/main.996eec4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba9ed8d1.css",
-    "static/js/main.a11d766b.js"
+    "static/css/main.a76093e0.css",
+    "static/js/main.996eec4b.js"
   ]
 }
