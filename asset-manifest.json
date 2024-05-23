@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e2e8155.css",
-    "main.js": "/static/js/main.ca293d58.js",
+    "main.css": "/static/css/main.ba9ed8d1.css",
+    "main.js": "/static/js/main.a11d766b.js",
     "static/media/video.mov": "/static/media/video.864cb783b65cf612f8fe.mov",
     "static/media/benefit-bg.png": "/static/media/benefit-bg.00278e091cb92106a4a7.png",
     "static/media/standard_fig.jpg": "/static/media/standard_fig.6fbef7fef2763fd28ebd.jpg",
@@ -18,11 +18,11 @@
     "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.392f3d1b0cf107c39d69.svg",
     "static/media/bar_loader.svg": "/static/media/bar_loader.5d04098c2f15fd030855.svg",
     "index.html": "/index.html",
-    "main.1e2e8155.css.map": "/static/css/main.1e2e8155.css.map",
-    "main.ca293d58.js.map": "/static/js/main.ca293d58.js.map"
+    "main.ba9ed8d1.css.map": "/static/css/main.ba9ed8d1.css.map",
+    "main.a11d766b.js.map": "/static/js/main.a11d766b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e2e8155.css",
-    "static/js/main.ca293d58.js"
+    "static/css/main.ba9ed8d1.css",
+    "static/js/main.a11d766b.js"
   ]
 }
