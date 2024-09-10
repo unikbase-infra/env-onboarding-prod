@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fef84a6.css",
-    "main.js": "/static/js/main.832778b0.js",
+    "main.css": "/static/css/main.089e96fe.css",
+    "main.js": "/static/js/main.b63e600b.js",
     "static/media/video.mov": "/static/media/video.864cb783b65cf612f8fe.mov",
+    "static/media/image-artboard-phone-ars.png": "/static/media/image-artboard-phone-ars.cb66fc384fb13587a590.png",
+    "static/media/benefit-bg-ars.png": "/static/media/benefit-bg-ars.af5e832edb98fe31a1e5.png",
     "static/media/standard_fig.jpg": "/static/media/standard_fig.6fbef7fef2763fd28ebd.jpg",
     "static/media/plus_fig.jpg": "/static/media/plus_fig.1830305522a35cb1093c.jpg",
     "static/media/image-artboard-phone.png": "/static/media/image-artboard-phone.d088e4257ad001ff46fc.png",
     "static/media/benefit-bg.png": "/static/media/benefit-bg.38891ec8ade442f2447e.png",
+    "static/media/cormorant.regular.otf": "/static/media/cormorant.regular.4e8f9e2cc66e5b4473ee.otf",
+    "static/media/cormorant.bold.otf": "/static/media/cormorant.bold.cbcb4763a444f8c0ac30.otf",
     "static/media/wallet-unikbase-laura.png": "/static/media/wallet-unikbase-laura.ddc459489dcd8f940f5e.png",
     "static/media/Apercu Italic.otf": "/static/media/Apercu Italic.b47cb3b6597e04b3b401.otf",
     "static/media/Apercu Bold Italic.otf": "/static/media/Apercu Bold Italic.9a100ce5ff73b69f88c4.otf",
@@ -18,11 +22,11 @@
     "static/media/iphone-mockup.svg": "/static/media/iphone-mockup.392f3d1b0cf107c39d69.svg",
     "static/media/bar_loader.svg": "/static/media/bar_loader.5d04098c2f15fd030855.svg",
     "index.html": "/index.html",
-    "main.9fef84a6.css.map": "/static/css/main.9fef84a6.css.map",
-    "main.832778b0.js.map": "/static/js/main.832778b0.js.map"
+    "main.089e96fe.css.map": "/static/css/main.089e96fe.css.map",
+    "main.b63e600b.js.map": "/static/js/main.b63e600b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fef84a6.css",
-    "static/js/main.832778b0.js"
+    "static/css/main.089e96fe.css",
+    "static/js/main.b63e600b.js"
   ]
 }
